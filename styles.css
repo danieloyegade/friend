@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e0f7fa;
+    color: #03396c;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #0288d1;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+.memories {
+    padding: 20px;
+}
+
+.memory {
+    margin-bottom: 20px;
+    padding: 15px;
+    background: #b3e5fc;
+    border-left: 4px solid #01579b;
+}
+
+.poems {
+    padding: 20px;
+    background: #bbdefb;
+}
+
+.poem {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #0277bd;
+    background: #e3f2fd;
+}
+
+footer {
+    background: #0288d1;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
